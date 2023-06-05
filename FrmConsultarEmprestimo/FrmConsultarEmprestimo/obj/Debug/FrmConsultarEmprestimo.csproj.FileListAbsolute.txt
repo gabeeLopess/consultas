@@ -1,0 +1,16 @@
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\bin\Debug\FrmConsultarEmprestimo.exe.config
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\bin\Debug\FrmConsultarEmprestimo.exe
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\bin\Debug\FrmConsultarEmprestimo.pdb
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.csproj.AssemblyReference.cache
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.Properties.Resources.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.csproj.GenerateResource.cache
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.csproj.CoreCompileInputs.cache
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.exe
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.pdb
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmSelecionarLeitor.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmSelecionarLocal.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmSelecionarItem.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmConsultarEmprestimo.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmSelecionarAutor.resources
+C:\Users\ga047\source\repos\FrmConsultarEmprestimo\FrmConsultarEmprestimo\obj\Debug\FrmConsultarEmprestimo.FrmSelecionarSecao.resources
